@@ -31,8 +31,24 @@ Warm water, as needed.]]></description>
       <source>https://www.youtube.com/channel/UCedsqpl7jaIb8BiaUFuC9KQ</source>
       <author>Pasta Grannies</author>
       <link>https://www.youtube.com/watch?v=1EUuEFeshv8</link>
-      <enclosure url="http://174.93.174.10:8080/UCedsqpl7jaIb8BiaUFuC9KQ/1EUuEFeshv8.mkv" length="146419883" type="video/x-matroska"/>
+      <enclosure url="http://174.89.233.32:8080/UCedsqpl7jaIb8BiaUFuC9KQ/1EUuEFeshv8.mkv" length="146419883" type="video/x-matroska"/>
       <itunes:image href="https://i.ytimg.com/vi/1EUuEFeshv8/hqdefault.jpg"/>
+    </item>
+    <item>
+      <description><![CDATA[Cooking is a family activity for Rita and Giovanna and here they are making their favourite mushroom lasagna. 
+For the dough: 300g 00 flour, 3 eggs
+For the béchamel: 1 litre semi skimmed milk, 80g each of butter and flour, plenty of nutmeg
+For the mushrooms: a 750g mixture, including porcini if you can, 2 garlic cloves, 1/2 a glass of white wine, olive oil (not too much), salt
+To assemble: 250g mozzarella, 50g Parmigiano or similar.]]></description>
+      <category><![CDATA[Film & Animation]]></category>
+      <title><![CDATA[Enjoy Rita, Giovanna and grandson Giulio make mushroom lasagna | Pasta Grannies]]></title>
+      <guid>VV7Y7TZG1Us</guid>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCedsqpl7jaIb8BiaUFuC9KQ</source>
+      <author>Pasta Grannies</author>
+      <link>https://www.youtube.com/watch?v=VV7Y7TZG1Us</link>
+      <enclosure url="http://174.89.233.32:8080/UCedsqpl7jaIb8BiaUFuC9KQ/VV7Y7TZG1Us.mkv" length="159895434" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/VV7Y7TZG1Us/maxresdefault.webp"/>
     </item>
   </channel>
 </rss>
